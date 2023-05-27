@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="88dp"
+    android:fontFamily="serif-monospace"
+    android:text="DevDarshanam"
+    android:textColor="@color/black"
+    android:textSize="34sp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

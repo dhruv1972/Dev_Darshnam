@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504597264027",
+    "project_id": "devdarshanam-80d77",
+    "storage_bucket": "devdarshanam-80d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504597264027:android:e822562457e4c52c29383e",
+        "android_client_info": {
+          "package_name": "com.example.devdarshanam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504597264027-21d1k2a5eetbgqp20cdilo56p5qb28kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZZgxrEHbVuH7YT2LGqYYNYDRD6NQnQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504597264027-21d1k2a5eetbgqp20cdilo56p5qb28kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

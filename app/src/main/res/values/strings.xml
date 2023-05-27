@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevDarshanam</string>
+    <string name="title_activity_temple_location">TempleLocation</string>
+    <string name="title_activity_get_temple_location">GetTempleLocation</string>
+    <string name="title_activity_get_temple_location2">getTempleLocation2</string>
+    <string name="title_activity_locate_temple">LocateTemple</string>
+</resources>
