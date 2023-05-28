@@ -72,10 +72,3 @@ Contributions to the Devdarshanam application are welcome! If you find any issue
 5. Create a pull request on the main repository.
 
 Please ensure that your code follows the project's coding style and conventions.
-
-
-## Contact
-
-If you have any questions or suggestions regarding the Devdarshanam application, please contact us at dhruvagarwal1903@gmail.com[mailto:dhruvagarwal1903@gmail.com]
-
-Feel free to explore and contribute to the project! Happy coding!
