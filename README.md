@@ -1,4 +1,3 @@
-Sure! Here's a README.md template for your Devdarshanam application:
 
 # Devdarshanam
 
